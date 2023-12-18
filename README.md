@@ -1,12 +1,10 @@
-### Bem vindo (a)
+Bem-vindo(a)
 
-Olá, eu me chamo Tarssio Barreto, sou cientista de dados e sócio fundador da Bit Analytics.
-Tenho projetos com foco em: 
+Olá! Sou o Tarssio Barreto, cientista de dados e sócio fundador da Bit Analytics. Meus projetos concentram-se em:
 
 a) Visualização de dados;
 b) Análise de dados;
 c) Criação de dashboards;
-d) Estudando a pleno vapor técnicas de NLP.
+d) Estudo intensivo de técnicas de NLP.
 
-Estarei aos poucos atualizando este github e colocando alguns materiais abertos, só um pouquinho de paciência, por favor.
-
+Estarei gradualmente atualizando este GitHub e compartilhando alguns materiais abertos. Agradeço pela sua paciência.
