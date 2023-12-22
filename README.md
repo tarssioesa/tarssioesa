@@ -26,8 +26,8 @@ Diferenciais do projeto:
 Principais pacotes utilizados: 
 
 * Para gráficos: ```<echarts4r>``` , ```<plotly>``` e ```<network3D```;
-* Para mapas: ```leaflet```; e
-* Para instruções de uso: ```tippy```
+* Para mapas: ```<leaflet>```; e
+* Para instruções de uso: ```<tippy>```
 
 É importante por, também, que a habilidade em [quasiquotation](<https://adv-r.hadley.nz/quasiquotation.html>) foi essencial para realizar esta dashboard, permitindo não só filtros de locais, mas também que para cada variável houvesse um calculo e uma representação gráfica adequada.
 
@@ -45,6 +45,10 @@ Diferenciais do projeto:
 * Projeto calcula indicadores,tendo como base a PNAD, tendo algumas opções de agrupamento dos resultados.
 
 
+## Alguns projetos e tutoriais
 
+### Censo Agropecuário
+
+🏗️ [Uma pequena análise descritiva com enfoque na concentração fundiária no Brasil](https://github.com/tarssioesa/censo_agro).
 
  
