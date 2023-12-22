@@ -36,11 +36,9 @@ Dificuldades encontradas e aprendizados:
 * Ao se acrescer o nível de customização da dashboard, o ```<flexdashboard>``` se mostra limitado;
 * A não realização de modularização aumenta a dificuldade de manutenção e atualização desta dashboard;
 
-### Calculadora PNAD
+### [Calculadora PNAD](https://bitanalytics.shinyapps.io/calculadora_pnad)
 
 Projeto criado em ```<shiny>``` e modularizado.
-
-<a href="https://bitanalytics.shinyapps.io/calculadora_pnad/"><img src="https://i.ibb.co/chcm9MY/Whats-App-Image-2023-12-19-at-09-36-50.jpg" alt="Whats-App-Image-2023-12-19-at-09-36-50" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'>
 
 Diferenciais do projeto: 
 
