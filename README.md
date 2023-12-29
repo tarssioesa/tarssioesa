@@ -53,4 +53,10 @@ Diferenciais do projeto:
 
 <img src="https://i.ibb.co/WxLmKcS/grafico1.jpg" alt="grafico1" border="0">
 
+### ONGS
+
+🏗️ [Análises usando NLP para identificação de padrões textuais em descrição de ONGS](https://github.com/tarssioesa/ONGS_NLP)
+
+<img src="https://i.ibb.co/JHDFNmM/wordcloud.png" alt="wordcloud" border="0">
+
  
