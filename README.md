@@ -52,6 +52,7 @@ Diferenciais do projeto:
 🏗️ [Uma pequena análise descritiva com enfoque na concentração fundiária no Brasil](https://github.com/tarssioesa/censo_agro).
 
 <img src="https://i.ibb.co/WxLmKcS/grafico1.jpg" alt="grafico1" border="0">
+___
 
 ### ONGS
 
