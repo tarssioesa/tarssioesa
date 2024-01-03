@@ -59,6 +59,11 @@ Diferenciais do projeto:
 
 🏗️ [Análises usando NLP para identificação de padrões textuais em descrição de ONGS](https://github.com/tarssioesa/ONGS_NLP)
 
-<img src="https://i.ibb.co/JHDFNmM/wordcloud.png" alt="wordcloud" border="0">
+Analises textuais: 
+
+- Word2vec;
+- Doc2vec; e 
+- BERTopics
+
 
  
