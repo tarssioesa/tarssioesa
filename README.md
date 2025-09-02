@@ -60,11 +60,11 @@ Este repositório reúne **análises de dados do Censo Agropecuário 2017** do I
 **Objetivos principais**:
 - Explorar a estrutura agrária brasileira por meio de dados sobre:
   - Número e área dos estabelecimentos agrícolas
-  - Tipo de uso da terra e padrões de produção
+  - Padrões de ocupação da terra
 
 **Conceitos-chave abordados**:
-- **Agricultura familiar**: abrange 77 % dos estabelecimentos, conforme classificação legal :contentReference[oaicite:3]{index=3}
-- **Concentração fundiária**: observou-se crescimento dos latifúndios, queda da agricultura familiar e expansão do uso de agrotóxicos e mecanização :contentReference[oaicite:4]{index=4}
+- **Agricultura familiar**: abrange cerca de 80% dos estabelecimentos, conforme classificação legal;
+- **Concentração fundiária**: observou-se que um número reduzido de estabelecimentos, 25%,  concentram a terra no Brasil, cerca de 75%;
 
 **Métodos utilizados**:
 - Tratamento e visualização de dados tabulares (SIDRA, IBGE)
