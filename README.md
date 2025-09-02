@@ -81,6 +81,8 @@ Este repositório serve como uma breve visão da dinâmica agrária do Brasil re
 
 Uso de **técnicas de NLP** para identificação de padrões textuais em descrições de ONGs.  
 
+Aqui buscamos aplicar técnicas de processamento de linguagem natural (NLP) para compreender o panorama da descrição das ONG's, buscando agrupá-las em grandes temas. É um tutorial para quem tem interesse em realizar análises não supervisionadas de texto e que já produziram resultados reais em projetos da BIT.
+
 Métodos aplicados:  
 - Word2Vec  
 - Doc2Vec  
