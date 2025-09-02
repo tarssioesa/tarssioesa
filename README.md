@@ -53,7 +53,25 @@ Projeto criado em **Shiny**, já modularizado.
 
 ### [Censo Agropecuário](https://github.com/tarssioesa/censo_agro)
 
-Uma análise descritiva com foco na **concentração fundiária no Brasil**.
+#### Censo Agropecuário – Análises de Concentração Fundiária (Brasil, 2017)
+
+Este repositório reúne **análises de dados do Censo Agropecuário 2017** do IBGE, com foco na **cobrança fundiária** e na **estrutura produtiva rural**.
+
+**Objetivos principais**:
+- Explorar a estrutura agrária brasileira por meio de dados sobre:
+  - Número e área dos estabelecimentos agrícolas
+  - Tipo de uso da terra e padrões de produção
+
+**Conceitos-chave abordados**:
+- **Agricultura familiar**: abrange 77 % dos estabelecimentos, conforme classificação legal :contentReference[oaicite:3]{index=3}
+- **Concentração fundiária**: observou-se crescimento dos latifúndios, queda da agricultura familiar e expansão do uso de agrotóxicos e mecanização :contentReference[oaicite:4]{index=4}
+
+**Métodos utilizados**:
+- Tratamento e visualização de dados tabulares (SIDRA, IBGE)
+- Exploração de padrões espaciais e estruturais
+
+Este repositório serve como uma breve visão da dinâmica agrária do Brasil recente por meio de análise de dados abertos do IBGE.
+
 
 <img src="https://i.ibb.co/WxLmKcS/grafico1.jpg" alt="Gráfico Censo Agro" border="0">
 
