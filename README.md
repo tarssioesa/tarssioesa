@@ -13,7 +13,7 @@ Estarei gradualmente atualizando este GitHub e compartilhando alguns materiais a
 
 ### Painel do Marco Legal do Saneamento
 
-Projeto criado em ```<flexdashboard>``` para o Instuto Água e Saneamento com a finalidade de fomentar o debate sobre oportunidades e desafios.
+Projeto criado em ```<flexdashboard>``` para o Instuto Água e Saneamento com a finalidade de fomentar o debate sobre oportunidades e desafios: <a href = "https://aguaesaneamento.shinyapps.io/painel-marco-legal/#section-cobertura">
 
 <a href="https://aguaesaneamento.shinyapps.io/painel-marco-legal/#section-cobertura"><img src="https://i.ibb.co/wLBW1DN/Whats-App-Image-2023-12-19-at-09-13-48-1.jpg" alt="Whats-App-Image-2023-12-19-at-09-13-48-1" border="0"></a>
 
