@@ -1,69 +1,80 @@
-# Bem-vindo(a)
+# 👋 Bem-vindo(a)
 
-Olá! Eu sou Tarssio Barreto, cientista de dados e sócio fundador da Bit Analytics. Meus projetos têm foco em:
+Olá! Eu sou **Tarssio Barreto**, cientista de dados e sócio-fundador da **Bit Analytics**.  
 
-- Visualização de dados;
-- Análise de dados;
-- Criação de dashboards;
-- Estudo intensivo de técnicas de NLP.
+Meus projetos têm foco em:  
+- 📊 Visualização de dados  
+- 📈 Análise de dados  
+- 📉 Criação de dashboards  
+- 🤖 Técnicas de NLP (Processamento de Linguagem Natural)  
 
-Estarei gradualmente atualizando este GitHub e compartilhando alguns materiais abertos. Agradeço pela sua paciência.
+Este repositório será atualizado gradualmente com materiais abertos e projetos desenvolvidos. Obrigado pela paciência e pelo interesse!
 
-## Projetos realizados pela Bit Analytics::
+---
 
-### Painel do Marco Legal do Saneamento
+## 🚀 Projetos realizados pela Bit Analytics
 
-Projeto criado em ```<flexdashboard>``` para o Instuto Água e Saneamento com a finalidade de fomentar o debate sobre oportunidades e desafios: <a href = "https://aguaesaneamento.shinyapps.io/painel-marco-legal/#section-cobertura">
+### [Painel do Marco Legal do Saneamento](https://aguaesaneamento.shinyapps.io/painel-marco-legal/#section-cobertura)
 
-<a href="https://aguaesaneamento.shinyapps.io/painel-marco-legal/#section-cobertura"><img src="https://i.ibb.co/wLBW1DN/Whats-App-Image-2023-12-19-at-09-13-48-1.jpg" alt="Whats-App-Image-2023-12-19-at-09-13-48-1" border="0"></a>
+Projeto desenvolvido em **flexdashboard** para o *Instituto Água e Saneamento*, com o objetivo de fomentar o debate sobre oportunidades e desafios do setor.
 
-Diferenciais do projeto: 
+<a href="https://aguaesaneamento.shinyapps.io/painel-marco-legal/#section-cobertura">
+  <img src="https://i.ibb.co/wLBW1DN/Whats-App-Image-2023-12-19-at-09-13-48-1.jpg" alt="Painel Marco Legal" border="0">
+</a>
 
-* Demonstração de indicadores de saneamento, que possuem padrões de cálculos diferentes, advindos do SNIS,  para outras divisões territoriais como Regiões Metropolitanas,  Bacias hidrográficas e outros agrupamentos urbanos;
-* Persitência das seleções entre as abas;
-* Front-end altamente customizado;
+**Diferenciais do projeto**:  
+- Demonstração de indicadores de saneamento (com padrões de cálculo distintos) para diferentes divisões territoriais, como regiões metropolitanas, bacias hidrográficas e agrupamentos urbanos.  
+- Persistência das seleções entre abas.  
+- Front-end altamente customizado.  
 
-Principais pacotes utilizados: 
+**Principais pacotes utilizados**:  
+- Gráficos: `echarts4r`, `plotly`, `network3D`  
+- Mapas: `leaflet`  
+- Instruções de uso: `tippy`  
 
-* Para gráficos: ```<echarts4r>``` , ```<plotly>``` e ```<network3D```;
-* Para mapas: ```<leaflet>```; e
-* Para instruções de uso: ```<tippy>```
+> A habilidade em [quasiquotation](https://adv-r.hadley.nz/quasiquotation.html) foi essencial para implementar filtros dinâmicos e cálculos customizados por variável.
 
-É importante por, também, que a habilidade em [quasiquotation](<https://adv-r.hadley.nz/quasiquotation.html>) foi essencial para realizar esta dashboard, permitindo não só filtros de locais, mas também que para cada variável houvesse um calculo e uma representação gráfica adequada.
+**Aprendizados e desafios**:  
+- O aumento do nível de customização expõe limitações do **flexdashboard**.  
+- A ausência de modularização dificulta manutenção e atualização.
 
-Dificuldades encontradas e aprendizados: 
-
-* Ao se acrescer o nível de customização da dashboard, o ```<flexdashboard>``` se mostra limitado;
-* A não realização de modularização aumenta a dificuldade de manutenção e atualização desta dashboard;
+---
 
 ### [Calculadora PNAD](https://bitanalytics.shinyapps.io/calculadora_pnad)
 
-Projeto criado em ```<shiny>``` e modularizado.
+Projeto criado em **Shiny**, já modularizado.  
 
-Diferenciais do projeto: 
+**Diferenciais do projeto**:  
+- Cálculo de indicadores a partir da PNAD, com opções de agrupamento e comparações.  
 
-* Projeto calcula indicadores,tendo como base a PNAD, tendo algumas opções de agrupamento dos resultados.
+---
 
+## 📚 Projetos e tutoriais
 
-## Alguns projetos e tutoriais
+### [Censo Agropecuário](https://github.com/tarssioesa/censo_agro)
 
-### Censo Agropecuário
+Uma análise descritiva com foco na **concentração fundiária no Brasil**.
 
-🏗️ [Uma pequena análise descritiva com enfoque na concentração fundiária no Brasil](https://github.com/tarssioesa/censo_agro).
+<img src="https://i.ibb.co/WxLmKcS/grafico1.jpg" alt="Gráfico Censo Agro" border="0">
 
-<img src="https://i.ibb.co/WxLmKcS/grafico1.jpg" alt="grafico1" border="0">
+---
 
-***
+### [ONGS – Análise NLP](https://github.com/tarssioesa/ONGS_NLP)
 
-### ONGS
+Uso de **técnicas de NLP** para identificação de padrões textuais em descrições de ONGs.  
 
-🏗️ [Análises usando NLP para identificação de padrões textuais em descrição de ONGS](https://github.com/tarssioesa/ONGS_NLP)
+Métodos aplicados:  
+- Word2Vec  
+- Doc2Vec  
+- BERTopic  
 
-Analises textuais: 
+---
 
-- Word2vec;
-- Doc2vec; e 
-- BERTopics
+## 📬 Contato
 
+- [LinkedIn](https://www.linkedin.com/in/tarssio.barreto/)  
+- [GitHub](https://github.com/tarssioesa)  
 
- 
+---
+
+👉 *Sempre aberto a colaborações, sugestões e trocas de conhecimento!*
